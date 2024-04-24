@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Celia</h1>
 <h3 align="center">A passionate bioinformatician based in London</h3>
 
-- 📫 How to reach me **celiacolominab@gmail.com**
+- 📫 For professional enquiries, please contact me at **celiacolominab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
