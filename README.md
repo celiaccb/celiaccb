@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celia</h1>
-<h3 align="center">A passionate bioinformatician based in London</h3>
+<h3 align="center">A skilled bioinformatician based in London</h3>
 
 - 📫 For professional enquiries, please contact me at **celiacolominab@gmail.com**
 
